@@ -7,8 +7,8 @@ permalink: /:title.html
 
 # Conference info
 conf:
-  name: "Conference name"
-  description: "Conference description"
+  name: "SECOMP UFS 2015"
+  description: "Semana da Computação da Universidade Federal de Sergipe - 2015"
   date: "November 15"
   price: "$100"
   address: "Boulevard Kukulcan, 30, México"
