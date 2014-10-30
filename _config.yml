@@ -1,4 +1,4 @@
-# Jekyll
+﻿# Jekyll
 server: true
 auto: true
 markdown: rdiscount
@@ -17,7 +17,7 @@ conf:
 
 # Site info
 site:
-  url: "http://confboilerplate.com"
+  url: "http://2015.secompufs.com"
   favicon: "http://braziljs.org/favicon.ico"
   googleanalytics: "UA-33656081-1"
   images:
