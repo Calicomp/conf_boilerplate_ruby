@@ -9,17 +9,17 @@ permalink: /:title.html
 conf:
   name: "SECOMP UFS 2015"
   description: "Semana da Computação da Universidade Federal de Sergipe - 2015"
-  date: "November 15"
-  price: "$100"
-  address: "Boulevard Kukulcan, 30, México"
-  venue: "Coco Bongo"
-  city: "Cancún"
+  date: "14 a 16 de janeiro"
+  price: "Gratuito"
+  address: "Cidade Universitária Profº José Aloísio de Campos"
+  venue: "Universidade Federal de Sergipe"
+  city: "São Cristóvão"
 
 # Site info
 site:
   url: "http://2015.secompufs.com"
   favicon: "http://braziljs.org/favicon.ico"
-  googleanalytics: "UA-33656081-1"
+  googleanalytics: "UA-56303332-1"
   images:
     cover: "http://f.cl.ly/items/2X28422q1e3w0C2U1P3H/866591_24254643.jpg"
     facebook: "http://braziljs.org/img/fb-share.jpg"
@@ -28,10 +28,10 @@ site:
 sections:
   about: true
   location: true
-  speakers: true
-  schedule: true
-  sponsors: true
-  partners: true
+  speakers: false
+  schedule: false
+  sponsors: false
+  partners: false
   contact: false
 
 # The entire schedule
@@ -116,6 +116,6 @@ sponsors:
 # List of Partners
 partners:
   -
-    name: "BrazilJS"
+    name: "Calicomp"
     logo: "http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png"
-    url: "http://braziljs.org"
+    url: "http://calicompufs.blogspot.com.br/"
