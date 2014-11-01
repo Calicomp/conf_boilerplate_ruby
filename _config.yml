@@ -1,8 +1,6 @@
 ﻿# Jekyll
-server: true
-auto: true
 markdown: rdiscount
-pygments: true
+highlighter: "pygments"
 permalink: /:title.html
 
 # Conference info
@@ -24,15 +22,18 @@ site:
     cover: "http://f.cl.ly/items/2X28422q1e3w0C2U1P3H/866591_24254643.jpg"
     facebook: "http://braziljs.org/img/fb-share.jpg"
 
+subscribeText: "Inscreva-se!"
+subscribeURL: "http://sigaa.ufs.br/"
+
 # Active sections on the website
 sections:
   about: true
   location: true
-  speakers: false
-  schedule: false
-  sponsors: false
-  partners: false
-  contact: false
+  speakers: true
+  schedule: true
+  sponsors: true
+  partners: true
+  contact: true
 
 # The entire schedule
 schedule:
@@ -119,3 +120,46 @@ partners:
     name: "Calicomp"
     logo: "http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png"
     url: "http://calicompufs.blogspot.com.br/"
+
+# About section
+aboutSection:
+   title: "Sobre"
+   text: "Lorem ipsum"
+
+# Contact section
+contactSection:
+   title: "Contato"
+   text: "Qualquer dúvida pode ser tirada através dos contatos ou do formulário abaixo."
+   email: "contatocalicomp@gmail.com"
+   twitterURL: "http://twitter.com/calicompufs"
+   twitterUsername: "@calicompufs"
+   form:
+    action: "contato.php"
+    name: "Qual o seu nome?"
+    email: "Diga o seu email para contato"
+    message: "Escreva sua mensagem"
+    sendButton: "Enviar"
+
+# Location section
+locationSection:
+   title: "Local"
+
+# Partners section
+partnersSection:
+   title: "Apoio"
+
+# Schedule section
+scheduleSection:
+   title: "Programação"
+   text: "A programação abaixo pode sofrer alterações sem aviso prévio."
+   time: "Horário"
+   slot: "Sessão"
+   description: "Descrição"
+
+# Speakers section
+speakersSection:
+   title: "Palestrantes"
+
+# Sponsors section
+sponsorsSection:
+   title: "Patrocinadores"
