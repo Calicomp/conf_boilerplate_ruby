@@ -129,10 +129,11 @@ aboutSection:
 # Contact section
 contactSection:
    title: "Contato"
-   text: "Qualquer dúvida pode ser tirada através dos contatos ou do formulário abaixo."
+   text: "Qualquer dúvida pode ser tirada através dos contatos abaixo."
    email: "contatocalicomp@gmail.com"
    twitterURL: "http://twitter.com/calicompufs"
    twitterUsername: "@calicompufs"
+   showForm: false
    form:
     action: "contato.php"
     name: "Qual o seu nome?"
