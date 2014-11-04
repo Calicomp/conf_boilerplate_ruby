@@ -109,10 +109,7 @@ schedule:
 
 # List of Sponsors
 sponsors:
-  -
-    name: "Universidade Federal de Sergipe"
-    logo: "./img/ufs-brasao.jpg"
-    url: "http://www.ufs.br/"
+
 
 # List of Partners
 partners:
@@ -120,6 +117,14 @@ partners:
     name: "Calicomp"
     logo: "./img/calicomp.jpg"
     url: "http://calicompufs.blogspot.com.br/"
+  - 
+    name: "Universidade Federal de Sergipe"
+    logo: "./img/ufs-brasao.jpg"
+    url: "http://www.ufs.br/"
+  - 
+    name: "DCOMP"
+    logo: "./img/dcomp.jpg"
+    url: "http://computacao.ufs.br/"
 
 # About section
 aboutSection:
