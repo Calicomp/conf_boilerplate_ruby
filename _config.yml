@@ -19,8 +19,8 @@ site:
   favicon: "http://braziljs.org/favicon.ico"
   googleanalytics: "UA-56303332-1"
   images:
-    cover: "http://f.cl.ly/items/2X28422q1e3w0C2U1P3H/866591_24254643.jpg"
-    facebook: "http://braziljs.org/img/fb-share.jpg"
+    cover: "./img/cover-circuit.jpg"
+    facebook: "./img/secomp.jpg"
 
 subscribeText: "Inscreva-se!"
 subscribeURL: "http://sigaa.ufs.br/"
