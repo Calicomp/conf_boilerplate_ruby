@@ -28,6 +28,7 @@ subscribeURL: "http://sigaa.ufs.br/"
 # Active sections on the website
 sections:
   about: true
+  c4p: true
   location: true
   speakers: false
   schedule: false
@@ -130,6 +131,15 @@ partners:
 aboutSection:
    title: "Sobre"
    text: "A SECOMP é a Semana de Computação da Universidade Federal de Sergipe, organizada pelo Calicomp - Centro Acadêmico Livre de Computação - e ocorrerá em janeiro de 2015."
+
+# Call for papers section
+c4pSection:
+   title: "Submissão de trabalhos"
+   text: "A programação da SECOMP é construída através de trabalhos, pesquisas, artigos e minicursos da comunidade, além de palestrantes convidados. Se você deseja ter seu trabalho reconhecido, colaborar com a comunidade e compartilhar ideias, submeta o seu trabalho!"
+   c4pUrl: "https://docs.google.com/forms/d/1Ronq75c5OBF_k_MOeWkzfPF8AzZnRzvQ36UDCvTR0kc/viewform"
+   c4pCaption: "Submeta o seu trabalho através deste formulário e aguarde o contato do comitê de seleção."
+   c4pRulesUrl: "https://docs.google.com/document/d/1W48CQmwFauz7TXFzA_cBZ37z5EKdqaRXlqWDmJVpxWI/pub"
+   c4pRulesCaption: "As regras para a submissão de trabalhos são simples, mas não as deixe de conferir."
 
 # Contact section
 contactSection:
