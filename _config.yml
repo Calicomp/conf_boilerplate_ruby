@@ -30,7 +30,7 @@ sections:
   about: true
   c4p: true
   location: true
-  speakers: false
+  speakers: true
   schedule: false
   sponsors: true
   partners: true
@@ -42,71 +42,113 @@ schedule:
     name: "Check-in / Breakfast"
     time: "9h00"
   -
-    name: "Linus Torvalds"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Linux Foundation"
-    twitter: "linus"
+    name: "Profa. Dra. Beatriz Trinchão Andrade de Carvalho"
+    photo: "./img/no-pic.png"
+    bio: ""
     presentation:
-      title: "Digging into a Linux Kernel"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "10h00"
+      title: ""
+      description: ""
   -
-    name: "Bill Gates"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Microsoft"
-    twitter: "billy95"
+    name: "Prof. Msc. Bruno Otavio Piedade Prado"
+    photo: "./img/no-pic.png"
+    bio: ""
     presentation:
-      title: "Introducing Windows 12"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "11h00"
+      title: ""
+      description: ""
   -
-    name: "Lunch"
-    time: "12h00"
-  -
-    name: "Chuck Norris"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Delta Command"
-    twitter: "littlechuck"
+    name: "Prof. Dr. Douglas Dyllon Jeronimo de Macedo"
+    photo: "./img/no-pic.png"
+    bio: ""
     presentation:
-      title: "How to kill a elephant with one finger"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "13h00"
+      title: ""
+      description: ""
   -
-    name: "Steve Jobs"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Apple, Inc."
-    twitter: "stevie"
+    name: "Profa. Dra. Edilayne Meneses Salgueiro"
+    photo: "./img/no-pic.png"
+    bio: ""
     presentation:
-      title: "Presenting iPad"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "14h00"
+      title: ""
+      description: ""
   -
-    name: "Coffee-break"
-    time: "15h00"
-  -
-    name: "Mark Zuckerberg"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Facebook"
-    twitter: "zuck"
+    name: "Prof. Dr. Edward David Moreno Ordonez"
+    photo: "./img/no-pic.png"
+    bio: ""
     presentation:
-      title: "Revealing Facebook Secrets"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "16h00"
+      title: ""
+      description: ""
   -
-    name: "Steve Wozniak"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Apple, Inc."
-    twitter: "woz"
+    name: "Prof. Msc. Giovanny Fernando Lucero Palma"
+    photo: "./img/no-pic.png"
+    bio: ""
     presentation:
-      title: "Why do I prefer Android over iPhone"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "17h00"
+      title: ""
+      description: ""
+  -
+    name: "Prof. Dr. Hendrik Teixeira Macedo"
+    photo: "./img/no-pic.png"
+    bio: ""
+    presentation:
+      title: ""
+      description: ""
+  -
+    name: "Prof. Dr. Henrique Nou Schneider"
+    photo: "./img/no-pic.png"
+    bio: ""
+    presentation:
+      title: ""
+      description: ""
+  -
+    name: "Profa. Msc. Kenia Kodel Cox"
+    photo: "./img/no-pic.png"
+    bio: ""
+    presentation:
+      title: ""
+      description: ""
+  -
+    name: "Prof. Dr. Leonardo Nogueira Matos"
+    photo: "./img/no-pic.png"
+    bio: ""
+    presentation:
+      title: ""
+      description: ""
+  -
+    name: "Prof. Dr. Marco Tulio Chella"
+    photo: "./img/no-pic.png"
+    bio: ""
+    presentation:
+      title: ""
+      description: ""
+  -
+    name: "Prof. Dr. Michel dos Santos Soares"
+    photo: "./img/no-pic.png"
+    bio: ""
+    presentation:
+      title: ""
+      description: ""
+  -
+    name: "Prof. Dr. Ricardo Jose Paiva de Britto Salgueiro"
+    photo: "./img/no-pic.png"
+    bio: ""
+    presentation:
+      title: ""
+      description: ""
+  -
+    name: "Prof. Dr. Tarcisio da Rocha "
+    photo: "./img/no-pic.png"
+    bio: ""
+    presentation:
+      title: ""
+      description: ""
+  #-
+  #  name: "Steve Wozniak"
+  #  photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+  #  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+  #  company: "Apple, Inc."
+  #  twitter: "woz"
+  #  presentation:
+  #    title: "Why do I prefer Android over iPhone"
+  #    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+  #    time: "17h00"
 
 # List of Sponsors
 sponsors:
@@ -130,7 +172,7 @@ partners:
 # About section
 aboutSection:
    title: "Sobre"
-   text: "A SECOMP é a Semana de Computação da Universidade Federal de Sergipe, organizada pelo Calicomp - Centro Acadêmico Livre de Computação - e ocorrerá em janeiro de 2015."
+   text: "A SECOMP é a Semana de Computação da Universidade Federal de Sergipe, com o apoio do Departamento de Computação (DCOMP), será organizada pelo Centro Acadêmico Livre de Computação (CALICOMP) e ocorrerá nos dias 14, 15 e 16 de janeiro de 2015. A SECOMP tem como finalidade, a integração dos alunos e professores, mostrando uma visão abrangente das diversas áreas do conhecimento."
 
 # Call for papers section
 c4pSection:
@@ -145,6 +187,13 @@ c4pSection:
 contactSection:
    title: "Contato"
    text: "Qualquer dúvida pode ser tirada através dos contatos abaixo."
+   contacts:
+   -
+     title: "Email"
+     link: "mailto:contatocalicomp@gmail.com"
+   -
+     title: "Facebook"
+     link: "https://www.facebook.com/secompufs2015"  
    email: "contatocalicomp@gmail.com"
    twitterURL: "http://twitter.com/calicompufs"
    twitterUsername: "@calicompufs"

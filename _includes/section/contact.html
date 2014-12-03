@@ -4,7 +4,11 @@
   <section class="contact" id="contact">
     <h2 class="section-title">{{site.contactSection.title}}</h2>
     <p>{{site.contactSection.text}}</p>
-    <p>Email: <a href="mailto:{{site.contactSection.email}}">{{site.contactSection.email}}</a>, Twitter: <a href="{{site.contactSection.twitterURL}}">{{site.contactSection.twitterUsername}}</a></p>
+    
+    {% for contact in site.contactSection.contacts %}
+      <p><a href="{{contact.link}}">{{contact.title}}</a></p>
+    {% endfor %} 
+    
     {% if site.contactSection.showForm == true %}
     <form method="post" action="{{site.contactSection.form.action}}" id="form-contato" class="form-contato">
       <div class="control-group control-group-name">
