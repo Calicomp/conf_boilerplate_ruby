@@ -43,7 +43,7 @@ schedule:
     time: "9h00"
   -
     name: "Profa. Dra. Beatriz Trinchão Andrade de Carvalho"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/beatriz.png"
     bio: ""
     presentation:
       title: ""
@@ -57,7 +57,7 @@ schedule:
       description: ""
   -
     name: "Prof. Dr. Douglas Dyllon Jeronimo de Macedo"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/douglas.jpg"
     bio: ""
     presentation:
       title: ""
@@ -71,7 +71,7 @@ schedule:
       description: ""
   -
     name: "Prof. Dr. Edward David Moreno Ordonez"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/edward.jpg"
     bio: ""
     presentation:
       title: ""
@@ -85,42 +85,42 @@ schedule:
       description: ""
   -
     name: "Prof. Dr. Hendrik Teixeira Macedo"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/hendrik.jpg"
     bio: ""
     presentation:
       title: ""
       description: ""
   -
     name: "Prof. Dr. Henrique Nou Schneider"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/henrique.jpg"
     bio: ""
     presentation:
       title: ""
       description: ""
   -
     name: "Profa. Msc. Kenia Kodel Cox"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/kenia.jpg"
     bio: ""
     presentation:
       title: ""
       description: ""
   -
     name: "Prof. Dr. Leonardo Nogueira Matos"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/leonardo.jpg"
     bio: ""
     presentation:
       title: ""
       description: ""
   -
     name: "Prof. Dr. Marco Tulio Chella"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/marco.jpg"
     bio: ""
     presentation:
       title: ""
       description: ""
   -
     name: "Prof. Dr. Michel dos Santos Soares"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/michel.jpg"
     bio: ""
     presentation:
       title: ""
@@ -172,7 +172,15 @@ partners:
 # About section
 aboutSection:
    title: "Sobre"
-   text: "A SECOMP é a Semana de Computação da Universidade Federal de Sergipe, com o apoio do Departamento de Computação (DCOMP), será organizada pelo Centro Acadêmico Livre de Computação (CALICOMP) e ocorrerá nos dias 14, 15 e 16 de janeiro de 2015. A SECOMP tem como finalidade, a integração dos alunos e professores, mostrando uma visão abrangente das diversas áreas do conhecimento."
+   description:
+    - 
+      p: "Nos dias 14, 15 e 16 de Janeiro, será realizada a 4ª SECOMP, Semana de Computação da Universidade Federal de Sergipe. Esta é uma grande oportunidade de conhecer novas pessoas e trocar informações."
+    - 
+      p: "Com o apoio do Departamento de Computação (DCOMP), a SECOMP é organizada pelo Centro Acadêmico Livre de Computação (CALICOMP) e tem como finalidade a integração dos alunos e professores bem como de profissionais da área, mostrando uma visão abrangente das diversas áreas do conhecimento."
+    -
+      p: "Qualquer pessoa que tenha interesse por tecnologia e informática está convidada a participar deste evento. Reconhecemos a importância da informática como um conhecimento indispensável nos dias atuais. Palestras e minicursos ministrados por profissionais de extrema competência que compartilharão um pouco de seus conhecimentos."
+    -
+      p: "A SECOMP é um evento muito importante para todos que se interessam por informática e tecnologia!"
 
 # Call for papers section
 c4pSection:

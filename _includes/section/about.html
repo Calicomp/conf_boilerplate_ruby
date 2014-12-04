@@ -3,7 +3,9 @@
   <!-- ABOUT -->
   <section class="about" id="about">
     <h2 class="section-title">{{site.aboutSection.title}}</h2>
-    <p>{{site.aboutSection.text}}</p>
+    {% for p in site.aboutSection.description %}
+    	<p>{{p.p}}</p>
+    {% endfor %}
   </section>
   <!-- / ABOUT -->
 
