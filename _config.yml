@@ -60,7 +60,7 @@ schedule:
     photo: "./img/speakers/douglas.jpg"
     bio: ""
     presentation:
-      title: ""
+      title: "Armazenamento de Dados Médicos em Ambientes Distribuídos - Passado, Presente e Futuro"
       description: ""
   -
     name: "Profa. Dra. Edilayne Meneses Salgueiro"
@@ -178,9 +178,9 @@ aboutSection:
     - 
       p: "Com o apoio do Departamento de Computação (DCOMP), a SECOMP é organizada pelo Centro Acadêmico Livre de Computação (CALICOMP) e tem como finalidade a integração dos alunos e professores bem como de profissionais da área, mostrando uma visão abrangente das diversas áreas do conhecimento."
     -
-      p: "Qualquer pessoa que tenha interesse por tecnologia e informática está convidada a participar deste evento. Reconhecemos a importância da informática como um conhecimento indispensável nos dias atuais. Palestras e minicursos ministrados por profissionais de extrema competência que compartilharão um pouco de seus conhecimentos."
+      p: "Reconhecemos a importância da informática como um conhecimento indispensável nos dias atuais. Ofereceremos palestras e minicursos ministrados por profissionais de extrema competência, dispostos a compartilhar parte de seu conhecimento e experiência com os presentes."
     -
-      p: "A SECOMP é um evento muito importante para todos que se interessam por informática e tecnologia!"
+      p: "Se você se interesssa em informática e tecnologia, não perca!"
 
 # Call for papers section
 c4pSection:
