@@ -168,13 +168,21 @@ partners:
     logo: "./img/calicomp.jpg"
     url: "http://calicompufs.blogspot.com.br/"
   - 
-    name: "Universidade Federal de Sergipe"
-    logo: "./img/ufs-brasao.jpg"
-    url: "http://www.ufs.br/"
+    name: "Casa do Código"
+    logo: "./img/cdc.png"
+    url: "http://www.casadocodigo.com.br/"
   - 
     name: "DCOMP"
     logo: "./img/dcomp.jpg"
     url: "http://computacao.ufs.br/"
+  - 
+    name: "Universidade Federal de Sergipe"
+    logo: "./img/ufs-brasao.jpg"
+    url: "http://www.ufs.br/"
+  - 
+    name: "Programa de Pós-Graduação em Ciência da Computação"
+    logo: "./img/procc.png"
+    url: "https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?id=710"
 
 # About section
 aboutSection:
