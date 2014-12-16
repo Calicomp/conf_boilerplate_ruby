@@ -61,7 +61,7 @@ schedule:
     bio: ""
     presentation:
       title: "Armazenamento de Dados Médicos em Ambientes Distribuídos - Passado, Presente e Futuro"
-      description: ""
+      description: "-"
   -
     name: "Profa. Dra. Edilayne Meneses Salgueiro"
     photo: "./img/no-pic.png"

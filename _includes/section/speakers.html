@@ -15,7 +15,14 @@
             {% if speaker.presentation.time %}
               <span class="speech-time">{{ speaker.presentation.time }}</span>
             {% endif %}
-              <span> {{ speaker.presentation.title }}</span>
+            {% if speaker.presentation.title %}
+              <div data-collapse>
+                <h6>{{ speaker.presentation.title }}</h6>
+                {% if speaker.presentation.description %}
+                  <span>{{ speaker.presentation.description }}</span>
+                {% endif %}
+              </div>
+            {% endif %}
           </h3>
 
           <h3 class="speakers-name">{{ speaker.name }} 
