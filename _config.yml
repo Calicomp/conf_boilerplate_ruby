@@ -130,8 +130,8 @@ schedule:
     photo: "./img/speakers/michel.jpg"
     bio: ""
     presentation:
-      title: ""
-      description: ""
+      title: "Engenharia de Software na Sociedade Moderna"
+      description: "O mundo moderno está cada vez mais dependente de software. Mas o que isso significa na prática? Temos grandes desafios na sociedade atual, que envolvem o desenvolvimento, a implantação e a manutenção de grandes sistemas de software em atividades e domínios variados da economia e da sociedade, como controle de processos industriais, telecomunicações, controle de infraestrutura (aeroviária, rodoviária, ferroviária, aquaviária), distribuíção e gerenciamento de energia e água, entretenimento, sistemas de informação em setores como educação, financeiro, previdência e saúde. Esta palestra terá como foco apresentar a atuação do software no passado, no presente, e tentar vislumbrar aplicações de software no futuro próximo. Casos de falhas e de sucesso serão apresentados, incluindo seus impactos na sociedade."
   -
     name: "Prof. Dr. Ricardo Jose Paiva de Britto Salgueiro"
     photo: "./img/no-pic.png"
@@ -175,6 +175,10 @@ partners:
     name: "DCOMP"
     logo: "./img/dcomp.jpg"
     url: "http://computacao.ufs.br/"
+  - 
+    name: "Itatech"
+    logo: "./img/itatech.jpg"
+    url: "http://itatechjr.com.br/"
   - 
     name: "Universidade Federal de Sergipe"
     logo: "./img/ufs-brasao.jpg"
