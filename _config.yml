@@ -50,7 +50,7 @@ schedule:
       description: ""
   -
     name: "Prof. Msc. Bruno Otavio Piedade Prado"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/bruno.jpg"
     bio: ""
     presentation:
       title: "Computação Cognitiva: Desafios e Oportunidades"
@@ -141,11 +141,11 @@ schedule:
       description: ""
   -
     name: "Prof. Dr. Tarcisio da Rocha "
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/tarcisio.gif"
     bio: ""
     presentation:
-      title: ""
-      description: ""
+      title: "Redação de Textos Técnicos"
+      description: "Escrever é uma atividade crucialmente importante no mundo acadêmico — forma padrão pela qual se transmite e se registra o conhecimento gerado. A escrita pode ser determinante para que o leitor possa reconhecer o valor técnico-científico de um trabalho. Isso implica que até mesmo um excelente trabalho do ponto de vista técnico-científico pode ser rejeitado ou depreciado quando transmitido através de um texto deficiente. Diante disso, o uso de técnicas de redação de textos técnicos se torna relevante para professores e alunos nas suas necessidades de escrita: teses, dissertações, relatórios, trabalhos de conclusão de curso, artigos, dentre outras. Nesta palestra, serão apresentados os princípios fundamentais da redação de textos técnicos com relação à estrutura e ao conteúdo, destacando também os problemas comuns a serem evitados durante a escrita."
   #-
   #  name: "Steve Wozniak"
   #  photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
