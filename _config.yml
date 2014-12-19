@@ -49,7 +49,7 @@ schedule:
       title: ""
       description: ""
   -
-    name: "Prof. Msc. Bruno Otavio Piedade Prado"
+    name: "Prof. Dr. Bruno Otavio Piedade Prado"
     photo: "./img/speakers/bruno.jpg"
     bio: ""
     presentation:
@@ -77,13 +77,6 @@ schedule:
       title: "Empreendedorismo, Inovação e Startups em Computação: Desafios e Oportunidades"
       description: "A palestra apresentará alguns conceitos relevantes sobre Inovação, Empreendedorismo e Startups, enfatizando principalmente em estudos de caso em nível nacional e internacional, focando nas oportunidades existentes com editais do governo e de empresas."
   -
-    name: "Prof. Msc. Giovanny Fernando Lucero Palma"
-    photo: "./img/no-pic.png"
-    bio: ""
-    presentation:
-      title: ""
-      description: ""
-  -
     name: "Prof. Dr. Hendrik Teixeira Macedo"
     photo: "./img/speakers/hendrik.jpg"
     bio: ""
@@ -95,8 +88,8 @@ schedule:
     photo: "./img/speakers/henrique.jpg"
     bio: ""
     presentation:
-      title: ""
-      description: ""
+      title: "As TDIC e a Educação: Promovendo Flexibilidade, Comunicação e Colaboração"
+      description: "A palestra tem o objetivo de contextualizar a sociedade do conhecimento e apresentar as competências requeridas por engenheiros do conhecimento, mostrando como as TIC podem ser utilizadas na Educação para forjar o modelo mental do Homem contemporâneo."
   -
     name: "Profa. Msc. Kenia Kodel Cox"
     photo: "./img/speakers/kenia.jpg"
