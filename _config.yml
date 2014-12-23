@@ -91,13 +91,6 @@ schedule:
       title: "As TDIC e a Educação: Promovendo Flexibilidade, Comunicação e Colaboração"
       description: "A palestra tem o objetivo de contextualizar a sociedade do conhecimento e apresentar as competências requeridas por engenheiros do conhecimento, mostrando como as TIC podem ser utilizadas na Educação para forjar o modelo mental do Homem contemporâneo."
   -
-    name: "Profa. Msc. Kenia Kodel Cox"
-    photo: "./img/speakers/kenia.jpg"
-    bio: ""
-    presentation:
-      title: ""
-      description: ""
-  -
     name: "Prof. Dr. Leonardo Nogueira Matos"
     photo: "./img/speakers/leonardo.jpg"
     bio: ""
@@ -106,7 +99,7 @@ schedule:
       description: "Esta palestra, voltada para alunos da área de Computação, apresenta alguns assuntos abordados em cursos de Processamento de Imagens, Computação Gráfica e Inteligência Artificial e como eles são interligados em programas de Geoprocessamento. A palestra também explora um pouco as funcionalidades do software nacional Spring, desenvolvido pelo INPE (Instituto Nacional de Pesquisas Espaciais), ressaltando sempre como estas áreas disciplinares são importantes para o desenvolvimento de aplicações práticas de processamento de dados geográficos."
   -
     name: "Prof. Dr. Luiz Brunelli"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/bruneli.jpg"
     bio: ""
     presentation:
       title: "Hardware"
@@ -127,7 +120,7 @@ schedule:
       description: "O mundo moderno está cada vez mais dependente de software. Mas o que isso significa na prática? Temos grandes desafios na sociedade atual, que envolvem o desenvolvimento, a implantação e a manutenção de grandes sistemas de software em atividades e domínios variados da economia e da sociedade, como controle de processos industriais, telecomunicações, controle de infraestrutura (aeroviária, rodoviária, ferroviária, aquaviária), distribuíção e gerenciamento de energia e água, entretenimento, sistemas de informação em setores como educação, financeiro, previdência e saúde. Esta palestra terá como foco apresentar a atuação do software no passado, no presente, e tentar vislumbrar aplicações de software no futuro próximo. Casos de falhas e de sucesso serão apresentados, incluindo seus impactos na sociedade."
   -
     name: "Prof. Dr. Ricardo Jose Paiva de Britto Salgueiro"
-    photo: "./img/no-pic.png"
+    photo: "./img/speakers/ricardo.jpg"
     bio: ""
     presentation:
       title: ""
