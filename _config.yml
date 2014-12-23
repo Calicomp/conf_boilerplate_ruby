@@ -145,7 +145,10 @@ schedule:
 
 # List of Sponsors
 sponsors:
-
+  -
+    name: "INFOX"
+    logo: "./img/infox.png"
+    url: "http://www.infox.com.br/"
 
 # List of Partners
 partners:
