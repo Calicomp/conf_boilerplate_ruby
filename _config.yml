@@ -173,6 +173,10 @@ partners:
     name: "Programa de Pós-Graduação em Ciência da Computação"
     logo: "./img/procc.png"
     url: "https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?id=710"
+  - 
+    name: "SergipeTec"
+    logo: "./img/sergipetec.png"
+    url: "http://www.sergipetec.se.gov.br/"
 
 # About section
 aboutSection:
