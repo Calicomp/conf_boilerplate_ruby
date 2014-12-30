@@ -28,7 +28,7 @@ subscribeURL: "http://sigaa.ufs.br/"
 # Active sections on the website
 sections:
   about: true
-  c4p: true
+  c4p: false
   location: true
   speakers: true
   schedule: false
