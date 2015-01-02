@@ -1,0 +1,38 @@
+{% if site.sections.workshops %}
+
+  <!-- workshops -->
+  <section class="speakers" id="speakers">
+
+    <h2 class="section-title">{{site.workshopsSection.title}}</h2>
+
+    <ul class="speakers-list">
+    {% for session in site.workshopsSection.sessions %}
+      {% if session.presentation %}
+        <li class="speakers-item">
+          <span class="speaker-photo"><img class="photo" src="{{ session.photo }}" alt="{{ session.name }}" /></span>
+
+          <h3 class="speech-title">
+            {% if session.presentation.time %}
+              <span class="speech-time">{{ session.presentation.time }}</span>
+            {% endif %}
+            {% if session.presentation.title %}
+              <div data-collapse>
+                <h6>{{ session.presentation.title }}</h6>
+                {% if session.presentation.description %}
+                  <span>{{ session.presentation.description }}</span>
+                {% endif %}
+              </div>
+            {% endif %}
+          </h3>
+
+          <h3 class="speakers-name">{{ session.name }}</h3>
+          <p class="speakers-bio">{{ session.bio }}</p>
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+
+  </section>
+  <!-- / workshops -->
+
+{% endif %}
