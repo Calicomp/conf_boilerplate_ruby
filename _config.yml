@@ -35,6 +35,7 @@ sections:
   sponsors: true
   partners: true
   contact: true
+  team: true
 
 # The entire schedule
 schedule:
@@ -146,9 +147,13 @@ schedule:
 # List of Sponsors
 sponsors:
   -
-    name: "INFOX"
+    name: "Ouro: INFOX"
     logo: "./img/infox.png"
     url: "http://www.infox.com.br/"
+  -
+    name: "Prata: Getinfo"
+    logo: "./img/getinfo.png"
+    url: "http://getinfo.net.br/"
 
 # List of Partners
 partners:
@@ -248,3 +253,44 @@ speakersSection:
 # Sponsors section
 sponsorsSection:
    title: "Patrocinadores"
+
+# Team section
+teamSection:
+   title: "Equipe"
+   groups: 
+    - 
+      title: "Organização"
+      members: 
+       - 
+         name: "Beatriz Trinchão "
+         photo: "./img/speakers/beatriz.png"
+       - 
+         name: "Douglas Macedo"
+         photo: "./img/speakers/douglas.jpg"
+       - 
+         name: "Erick Mendonça"
+         photo: "./img/team/erick.jpg"
+       - 
+         name: "Pablo Lima"
+         photo: "./img/team/pablo.jpg"
+       - 
+         name: "Verônicka Nascimento"
+         photo: "./img/team/veronicka.jpg"
+    - 
+      title: "Voluntários"
+      members: 
+       - 
+         name: "Davy Sousa"
+         photo: "./img/team/davy.jpg"
+       - 
+         name: "Ednilson Castro"
+         photo: "./img/team/ednilson.jpg"
+       - 
+         name: "Kellisson Silva"
+         photo: "./img/team/kellisson.jpg"
+       - 
+         name: "Leonardo Moraes"
+         photo: "./img/team/leonardo.jpg"
+       - 
+         name: "Thiago Arcanjo"
+         photo: "./img/team/thiago.jpg"

@@ -1,0 +1,22 @@
+{% if site.sections.team %}
+
+  <!-- TEAM -->
+  <section class="speakers" id="team">
+
+    {% for group in site.teamSection.groups %}
+      <h2 class="section-title">{{ group.title }}</h2>
+
+      <ul class="speakers-list">
+      {% for member in group.members %}
+          <li class="speakers-item">
+            <span class="speaker-photo"><img class="photo" src="{{ member.photo }}" alt="{{ member.name }}" /></span>
+            <h1 class="speakers-name">{{ member.name }}</h1>
+          </li>
+      {% endfor %}
+      </ul>
+    {% endfor %}
+
+  </section>
+  <!-- / TEAM -->
+
+{% endif %}
