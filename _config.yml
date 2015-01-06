@@ -27,6 +27,7 @@ subscribeURL: "https://www.sigaa.ufs.br/sigaa/link/public/extensao/formInscricao
 
 # Active sections on the website
 sections:
+  hero: true
   about: true
   c4p: false
   location: true
@@ -186,6 +187,12 @@ partners:
     name: "SergipeTec"
     logo: "./img/sergipetec.png"
     url: "http://www.sergipetec.se.gov.br/"
+
+# Hero section
+heroSection:
+   title: "Aviso"
+   description: "A programação já está disponível!"
+   link: "https://www.sigaa.ufs.br/sigaa/link/public/extensao/viewCursoEvento?id=14277365"
 
 # About section
 aboutSection:
