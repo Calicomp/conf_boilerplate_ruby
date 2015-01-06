@@ -72,8 +72,8 @@ schedule:
         title: "Vamos ao Studio? Migre sua aplicação para a nova ferramenta de desenvolvimento da Google"
         description: "Ao término deste curso você será capaz de migrar suas aplicações do Eclipse para o Android Studio além de conhecer as principais funcionalidades que esta incrível ferramenta tem a oferecer."
       -
-       name: "Adriana de Melo Fontes"
-       photo: "./img/workshops/adriana.gif"
+       name: "Adriana de Melo Fontes e Igor Nunes"
+       photo: "./img/workshops/adriana.jpg"
        bio: ""
        workshop: true
        presentation:
