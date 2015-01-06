@@ -22,8 +22,8 @@ site:
     cover: "./img/cover-circuit.jpg"
     facebook: "./img/secomp.jpg"
 
-subscribeText: "As inscrições serão abertas em 02/01/2015"
-subscribeURL: "http://sigaa.ufs.br/"
+subscribeText: "Inscrições abertas!"
+subscribeURL: "https://www.sigaa.ufs.br/sigaa/link/public/extensao/formInscricaoOnline?id=14281419&flag=true"
 
 # Active sections on the website
 sections:
