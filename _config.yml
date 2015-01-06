@@ -287,11 +287,20 @@ teamSection:
          name: "Ednilson Castro"
          photo: "./img/team/ednilson.jpg"
        - 
+         name: "Isabella Oliveira"
+         photo: "./img/team/isabela.jpg"
+       - 
+         name: "José Caique Oliveira"
+         photo: "./img/team/caique.jpg"
+       - 
          name: "Kellisson Silva"
          photo: "./img/team/kellisson.jpg"
        - 
          name: "Leonardo Moraes"
          photo: "./img/team/leonardo.jpg"
+       - 
+         name: "Matheus Zaggo"
+         photo: "./img/team/matheus.jpg"
        - 
          name: "Thiago Arcanjo"
          photo: "./img/team/thiago.jpg"
