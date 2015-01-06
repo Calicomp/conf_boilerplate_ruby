@@ -287,6 +287,12 @@ teamSection:
          name: "Ednilson Castro"
          photo: "./img/team/ednilson.jpg"
        - 
+         name: "Euder de Jesus"
+         photo: "./img/team/euder.jpg"
+       - 
+         name: "Fernando Melo"
+         photo: "./img/team/fernando.jpg"
+       - 
          name: "Isabella Oliveira"
          photo: "./img/team/isabela.jpg"
        - 
@@ -301,6 +307,9 @@ teamSection:
        - 
          name: "Matheus Zaggo"
          photo: "./img/team/matheus.jpg"
+       - 
+         name: "Raabe Noa"
+         photo: "./img/team/raabe.jpg"
        - 
          name: "Thiago Arcanjo"
          photo: "./img/team/thiago.jpg"
