@@ -99,14 +99,17 @@ schedule:
       -
         name: "Profa. Andreia Malucelli"
         company: "UTFPR"
+        talk: true
         time: "14:00"
       -
         name: "Prof. Maurício Pamplona"
         company: "UFBA"
+        talk: true
         time: "15:00"
       -
         name: "Prof. Rubisley Lemes"
         company: "UFBA"
+        talk: true
         time: "16:30"
       -
         name: "Coffee-Break"
@@ -134,6 +137,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/michel.jpg"
         bio: ""
+        talk: true
         presentation:
           title: "Engenharia de Software na Sociedade Moderna"
           description: "O mundo moderno está cada vez mais dependente de software. Mas o que isso significa na prática? Temos grandes desafios na sociedade atual, que envolvem o desenvolvimento, a implantação e a manutenção de grandes sistemas de software em atividades e domínios variados da economia e da sociedade, como controle de processos industriais, telecomunicações, controle de infraestrutura (aeroviária, rodoviária, ferroviária, aquaviária), distribuíção e gerenciamento de energia e água, entretenimento, sistemas de informação em setores como educação, financeiro, previdência e saúde. Esta palestra terá como foco apresentar a atuação do software no passado, no presente, e tentar vislumbrar aplicações de software no futuro próximo. Casos de falhas e de sucesso serão apresentados, incluindo seus impactos na sociedade."
@@ -186,6 +190,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/marco.jpg"
         bio: ""
+        talk: true
         presentation:
           title: "Internet das Coisas na Plataforma Intel Galileo"
           description: "Visão geral do sistema de software e hardware da plataforma Intel Galileo e  exemplo de desenvolvimento de projetos que conecta sensores e atuadores à Internet  utilizando linguagens como javascript e Python."
@@ -195,6 +200,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/bruneli.jpg"
         bio: ""
+        talk: true
         presentation:
           title: "Hardware"
           description: ""
@@ -204,6 +210,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/bruno.jpg"
         bio: ""
+        talk: true
         presentation:
           title: "Computação Cognitiva: Desafios e Oportunidades"
           description: "A computação clássica apresenta várias limitações fundamentais decorrentes do aumento crescente da complexidade do projeto do hardware e software, seja pela dificuldade de redução de escala dos componentes como pelo funcionamento inerentemente sequencial do software. Neste contexto, é essencial o desenvolvimento de um novo paradigma de computação altamente paralelo que seja escalável e adaptável, possuindo a capacidade de aprender com a experiência, ao invés de ter todos os seus aspectos definidos por sua programação."
@@ -216,6 +223,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/ricardo.jpg"
         bio: ""
+        talk: true
         presentation:
           title: ""
           description: ""
@@ -225,6 +233,7 @@ schedule:
         company: "UFS"
         photo: "./img/no-pic.png"
         bio: ""
+        talk: true
         presentation:
           title: ""
           description: ""      
@@ -234,6 +243,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/henrique.jpg"
         bio: ""
+        talk: true
         presentation:
           title: "As TDIC e a Educação: Promovendo Flexibilidade, Comunicação e Colaboração"
           description: "A palestra tem o objetivo de contextualizar a sociedade do conhecimento e apresentar as competências requeridas por engenheiros do conhecimento, mostrando como as TIC podem ser utilizadas na Educação para forjar o modelo mental do Homem contemporâneo."
@@ -243,6 +253,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/tarcisio.gif"
         bio: ""
+        talk: true
         presentation:
           title: "Redação de Textos Técnicos"
           description: "Escrever é uma atividade crucialmente importante no mundo acadêmico — forma padrão pela qual se transmite e se registra o conhecimento gerado. A escrita pode ser determinante para que o leitor possa reconhecer o valor técnico-científico de um trabalho. Isso implica que até mesmo um excelente trabalho do ponto de vista técnico-científico pode ser rejeitado ou depreciado quando transmitido através de um texto deficiente. Diante disso, o uso de técnicas de redação de textos técnicos se torna relevante para professores e alunos nas suas necessidades de escrita: teses, dissertações, relatórios, trabalhos de conclusão de curso, artigos, dentre outras. Nesta palestra, serão apresentados os princípios fundamentais da redação de textos técnicos com relação à estrutura e ao conteúdo, destacando também os problemas comuns a serem evitados durante a escrita."
@@ -255,6 +266,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/douglas.jpg"
         bio: ""
+        talk: true
         presentation:
           title: "Armazenamento de Dados Médicos em Ambientes Distribuídos - Passado, Presente e Futuro"
           description: "-"
@@ -264,6 +276,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/leonardo.jpg"
         bio: ""
+        talk: true
         presentation:
           title: "Sistemas de Informações Geográficas - laboratório para práticas de Processamento de Imagens, Computação Gráfica e Inteligência Artificial"
           description: "Esta palestra, voltada para alunos da área de Computação, apresenta alguns assuntos abordados em cursos de Processamento de Imagens, Computação Gráfica e Inteligência Artificial e como eles são interligados em programas de Geoprocessamento. A palestra também explora um pouco as funcionalidades do software nacional Spring, desenvolvido pelo INPE (Instituto Nacional de Pesquisas Espaciais), ressaltando sempre como estas áreas disciplinares são importantes para o desenvolvimento de aplicações práticas de processamento de dados geográficos."
@@ -276,6 +289,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/beatriz.png"
         bio: ""
+        talk: true
         presentation:
           title: ""
           description: ""
@@ -335,6 +349,7 @@ schedule:
         company: "UFS"
         photo: "./img/speakers/edward.jpg"
         bio: ""
+        talk: true
         presentation:
           title: "Empreendedorismo, Inovação e Startups em Computação: Desafios e Oportunidades"
           description: "A palestra apresentará alguns conceitos relevantes sobre Inovação, Empreendedorismo e Startups, enfatizando principalmente em estudos de caso em nível nacional e internacional, focando nas oportunidades existentes com editais do governo e de empresas."

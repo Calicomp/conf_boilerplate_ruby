@@ -1,4 +1,4 @@
-{% if site.sections.speakers %}
+
 
   <!-- SPEAKERS -->
   <section class="speakers" id="speakers">
@@ -6,15 +6,13 @@
     <h2 class="section-title">{{site.speakersSection.title}}</h2>
 
     <ul class="speakers-list">
-    {% for speaker in site.schedule %}
-      {% if speaker.presentation %}
+    {% for day in site.schedule %}
+     {% for speaker in day.slots %}
+      {% if speaker.presentation and speaker.talk %}
         <li class="speakers-item">
           <span class="speaker-photo"><img class="photo" src="{{ speaker.photo }}" alt="{{ speaker.name }}" /></span>
 
           <h3 class="speech-title">
-            {% if speaker.presentation.time %}
-              <span class="speech-time">{{ speaker.presentation.time }}</span>
-            {% endif %}
             {% if speaker.presentation.title %}
               <div data-collapse>
                 <h6>{{ speaker.presentation.title }}</h6>
@@ -34,10 +32,10 @@
           <p class="speakers-bio">{{ speaker.bio }}</p>
         </li>
       {% endif %}
+     {% endfor %} 
     {% endfor %}
     </ul>
 
   </section>
   <!-- / SPEAKERS -->
 
-{% endif %}
