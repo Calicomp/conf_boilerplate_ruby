@@ -6,8 +6,9 @@
     <h2 class="section-title">{{site.workshopsSection.title}}</h2>
 
     <ul class="speakers-list">
-    {% for session in site.workshopsSection.sessions %}
-      {% if session.presentation %}
+    {% for day in site.schedule %}
+     {% for session in day.slots %}
+      {% if session.presentation and session.workshop %}
         <li class="speakers-item">
           <span class="speaker-photo"><img class="photo" src="{{ session.photo }}" alt="{{ session.name }}" /></span>
 
@@ -29,6 +30,7 @@
           <p class="speakers-bio">{{ session.bio }}</p>
         </li>
       {% endif %}
+     {% endfor %} 
     {% endfor %}
     </ul>
 
