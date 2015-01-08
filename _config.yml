@@ -99,6 +99,7 @@ schedule:
       -
         name: "Profa. Andreia Malucelli"
         company: "UTFPR"
+        photo: "./img/no-pic.png"
         talk: true
         presentation:
           title: "Os Desafios das Mulheres na Computação"
@@ -106,6 +107,7 @@ schedule:
       -
         name: "Prof. Maurício Pamplona"
         company: "UFBA"
+        photo: "./img/no-pic.png"
         talk: true
         presentation:
           title: "Reconhecimento Facial Multimodal"
@@ -113,6 +115,7 @@ schedule:
       -
         name: "Prof. Rubisley Lemes"
         company: "UFBA"
+        photo: "./img/no-pic.png"
         talk: true
         presentation:
           title: "Biometria e Imagens Médicas"
