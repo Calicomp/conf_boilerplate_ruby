@@ -370,8 +370,14 @@ schedule:
         name: "Coffee-Break"
         time: "15:10"
       -
-        name: "Palestra Getinfo"
-        time: "15:30"
+        name: "Fernando Schuindt"
+        company: "Getinfo"
+        photo: "./img/speakers/fernando2.jpg"
+        bio: ""
+        talk: true
+        presentation:
+          title: "Conhecendo o Rails: Desenvolvendo um sistema de autenticação em 25 minutos"
+          time: "15:30"
       -
         name: "Jorge Santana de Oliveira"
         company: "INFOX"
