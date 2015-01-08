@@ -183,7 +183,7 @@ schedule:
         description: "O Netkit é um software open source (licenciado sob GPL) baseado em UML (User Mode Linux – software de virtualização de máquinas virtuais). O ambiente do NetKit é um emulador simples que permite a realização de experimentos práticos na área de redes de computadores. Não há necessidade de aquisição e instalação de um laboratório de redes, que tem um custo muito alto. No minicurso são apresentados os requisitos, a instalação e configuração do ambiente, bem como a criação e execução de experimentos para o estudo de protocolos de rede. Utilizando o Netkit, em um único computador pessoal, pode-se implantar uma topologia de rede através da criação de dispositivos de rede virtual (computadores, roteadores e switches) e as conexões entres estes elementos. Arquivos de configuração são criados para descrever a topologia a ser estuda. Esses arquivos de configuração são utilizados pelo Netkit para iniciar automaticamente os dispositivos, as interligações e os serviços executados no ambiente proposto."
       -
        name: "Adriana de Melo Fontes"
-       photo: "./img/workshops/adriana.gif"
+       photo: "./img/workshops/adriana.jpg"
        bio: ""
        presentation:
         title: "Project Model Canvas"
