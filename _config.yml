@@ -406,6 +406,10 @@ sponsors:
 # List of Partners
 partners:
   -
+    name: "BK Telecom"
+    logo: "./img/bk.jpg"
+    url: "#"
+  -
     name: "Calicomp"
     logo: "./img/calicomp.jpg"
     url: "http://calicompufs.blogspot.com.br/"
