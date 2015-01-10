@@ -422,6 +422,10 @@ partners:
     logo: "./img/dcomp.jpg"
     url: "http://computacao.ufs.br/"
   -
+    name: "GDG Aracaju"
+    logo: "./img/gdgaracaju.jpg"
+    url: "http://gdgaracaju.com.br/"
+  -
     name: "Itatech"
     logo: "./img/itatech.jpg"
     url: "http://itatechjr.com.br/"
@@ -520,7 +524,10 @@ teamSection:
       title: "Organização"
       members:
        -
-         name: "Beatriz Trinchão "
+         name: "Adelson Andrade"
+         photo: "./img/team/adelson.jpg"
+       -
+         name: "Beatriz Trinchão"
          photo: "./img/speakers/beatriz.png"
        -
          name: "Douglas Macedo"
@@ -528,6 +535,9 @@ teamSection:
        -
          name: "Erick Mendonça"
          photo: "./img/team/erick.jpg"
+       -
+         name: "Henrik Araújo"
+         photo: "./img/team/henrik.jpg"
        -
          name: "Pablo Lima"
          photo: "./img/team/pablo.jpg"
@@ -561,6 +571,9 @@ teamSection:
        -
          name: "Leonardo Moraes"
          photo: "./img/team/leonardo.jpg"
+       -
+         name: "Nathanael Vasconcelos"
+         photo: "./img/team/nathanael.jpg"
        -
          name: "Matheus Zaggo"
          photo: "./img/team/matheus.jpg"
