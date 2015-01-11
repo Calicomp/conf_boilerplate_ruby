@@ -405,10 +405,10 @@ sponsors:
 
 # List of Partners
 partners:
-  -
-    name: "BK Telecom"
-    logo: "./img/bk.jpg"
-    url: "#"
+  #-
+  #  name: "BK Telecom"
+  #  logo: "./img/bk.jpg"
+  #  url: "#"
   -
     name: "Calicomp"
     logo: "./img/calicomp.jpg"
@@ -547,6 +547,9 @@ teamSection:
     -
       title: "Voluntários"
       members:
+       -
+         name: "Alice Rodrigues"
+         photo: "./img/no-pic.png"
        -
          name: "Davy Sousa"
          photo: "./img/team/davy.jpg"
