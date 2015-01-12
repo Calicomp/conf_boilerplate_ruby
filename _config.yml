@@ -125,6 +125,7 @@ schedule:
         time: "17:00"
       -
         name: "Michael Oliveira da Cruz"
+        company: "PROCC/UFS"
         photo: "./img/procc.png"
         presentation:
           title: "Recomendação de Caronas para Grupos: Uma Abordagem Baseada na Discretização de Rotas"
