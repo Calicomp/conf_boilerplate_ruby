@@ -27,7 +27,7 @@ subscribeURL: "https://www.sigaa.ufs.br/sigaa/link/public/extensao/formInscricao
 
 # Active sections on the website
 sections:
-  hero: false
+  hero: true
   about: true
   c4p: false
   location: true
@@ -457,8 +457,8 @@ partners:
 # Hero section
 heroSection:
    title: "Aviso"
-   description: "A programação já está disponível!"
-   link: "https://www.sigaa.ufs.br/sigaa/link/public/extensao/viewCursoEvento?id=14277365"
+   description: "Confira a programação completa com salas!"
+   link: "https://docs.google.com/spreadsheets/d/1kejnOFonICKc0JagLNzuUM_TMcg0pz0Eoc-m0rTQrgk/pubhtml?gid=0&single=true"
 
 # About section
 aboutSection:
