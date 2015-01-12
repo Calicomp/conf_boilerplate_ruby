@@ -124,23 +124,46 @@ schedule:
         name: "Intervalo"
         time: "17:00"
       -
-        name: "Seminário PROCC"
+        name: "Michael Oliveira da Cruz"
+        photo: "./img/procc.png"
+        presentation:
+          title: "Recomendação de Caronas para Grupos: Uma Abordagem Baseada na Discretização de Rotas"
+          time: "18:00"
+      -
+        name: "Seminário"
+        company: "PROCC/UFS"
         photo: "./img/procc.png"
         presentation:
           title: "Seminário Computação Inteligente"
-          time: "18:00"
+          time: "18:20"
       -
-        name: "Seminário PROCC"
+        name: "Adriana Fontes"
+        company: "PROCC/UFS"
+        photo: "./img/procc.png"
+        presentation:
+          title: "ONTOPETIC: proposta de uma Ontologia para Apoiar a Metodologia PETIC (Planejamento Estratégico de Tecnologia da Informação e Comunicação)"
+          time: "18:40"
+      -
+        name: "Seminário"
+        company: "PROCC/UFS"
         photo: "./img/procc.png"
         presentation:
           title: "Seminário Engenharia de Software e Sistemas de Informação"
-          time: "18:40"
+          time: "19:00"
       -
-        name: "Seminário PROCC"
+        name: "Sávio Roberto Amorim Aragão Silva"
+        company: "PROCC/UFS"
         photo: "./img/procc.png"
         presentation:
-          title: "Seminário Redes de Computadores e Sistemas Distribuídos"
+          title: "Um Algoritmo de Decisão de Handover baseado em QoS e Autonomia Energética"
           time: "19:20"
+      -
+        name: "Franklin Magalhães"
+        company: "PROCC/UFS"
+        photo: "./img/procc.png"
+        presentation:
+          title: "Abordagem Dirigida a Modelos para Implantação Automática de Software em Nuvem"
+          time: "19:40"
       -
         name: "Prof. Dr. Henrique Nou Schneider"
         company: "UFS"
