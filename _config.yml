@@ -97,7 +97,7 @@ schedule:
         name: "Palestras"
         time: "14:00"
       -
-        name: "Profa. Andreia Malucelli"
+        name: "Profa. Dra. Andreia Malucelli"
         company: "UTFPR"
         photo: "./img/no-pic.png"
         talk: true
@@ -105,7 +105,7 @@ schedule:
           title: "Os Desafios das Mulheres na Computação"
           time: "14:00"
       -
-        name: "Prof. Maurício Pamplona"
+        name: "Prof. Dr. Maurício Pamplona"
         company: "UFBA"
         photo: "./img/no-pic.png"
         talk: true
@@ -113,16 +113,16 @@ schedule:
           title: "Reconhecimento Facial Multimodal"
           time: "15:00"
       -
-        name: "Prof. Rubisley Lemes"
+        name: "Prof. Dr. Rubisley Lemes"
         company: "UFBA"
         photo: "./img/no-pic.png"
         talk: true
         presentation:
           title: "Biometria e Imagens Médicas"
-          time: "16:30"
+          time: "16:00"
       -
-        name: "Coffee-Break"
-        time: "17:30"
+        name: "Intervalo"
+        time: "17:00"
       -
         name: "Seminário PROCC"
         photo: "./img/procc.png"
@@ -142,15 +142,16 @@ schedule:
           title: "Seminário Redes de Computadores e Sistemas Distribuídos"
           time: "19:20"
       -
-        name: "Prof. Dr. Michel dos Santos Soares"
+        name: "Prof. Dr. Henrique Nou Schneider"
         company: "UFS"
-        photo: "./img/speakers/michel.jpg"
+        photo: "./img/speakers/henrique.jpg"
         bio: ""
         talk: true
         presentation:
-          title: "Engenharia de Software na Sociedade Moderna"
-          description: "O mundo moderno está cada vez mais dependente de software. Mas o que isso significa na prática? Temos grandes desafios na sociedade atual, que envolvem o desenvolvimento, a implantação e a manutenção de grandes sistemas de software em atividades e domínios variados da economia e da sociedade, como controle de processos industriais, telecomunicações, controle de infraestrutura (aeroviária, rodoviária, ferroviária, aquaviária), distribuíção e gerenciamento de energia e água, entretenimento, sistemas de informação em setores como educação, financeiro, previdência e saúde. Esta palestra terá como foco apresentar a atuação do software no passado, no presente, e tentar vislumbrar aplicações de software no futuro próximo. Casos de falhas e de sucesso serão apresentados, incluindo seus impactos na sociedade."
-          time: "20:40"
+          title: "As TDIC e a Educação: Promovendo Flexibilidade, Comunicação e Colaboração"
+          description: "A palestra tem o objetivo de contextualizar a sociedade do conhecimento e apresentar as competências requeridas por engenheiros do conhecimento, mostrando como as TIC podem ser utilizadas na Educação para forjar o modelo mental do Homem contemporâneo."
+          time: "20:15"
+
   -
     day: "15/01/2015"
     slots:
@@ -213,7 +214,7 @@ schedule:
         presentation:
           title: "Hardware"
           description: ""
-          time: "14:00"
+          time: "14:10"
       -
         name: "Prof. Dr. Bruno Otavio Piedade Prado"
         company: "UFS"
@@ -223,10 +224,10 @@ schedule:
         presentation:
           title: "Computação Cognitiva: Desafios e Oportunidades"
           description: "A computação clássica apresenta várias limitações fundamentais decorrentes do aumento crescente da complexidade do projeto do hardware e software, seja pela dificuldade de redução de escala dos componentes como pelo funcionamento inerentemente sequencial do software. Neste contexto, é essencial o desenvolvimento de um novo paradigma de computação altamente paralelo que seja escalável e adaptável, possuindo a capacidade de aprender com a experiência, ao invés de ter todos os seus aspectos definidos por sua programação."
-          time: "14:30"
+          time: "14:50"
       -
         name: "Coffee-Break"
-        time: "15:00"
+        time: "15:30"
       -
         name: "Prof. Dr. Ricardo Jose Paiva de Britto Salgueiro"
         company: "UFS"
@@ -236,7 +237,7 @@ schedule:
         presentation:
           title: "Computação em Nuvem: características e desafios"
           description: ""
-          time: "15:20"
+          time: "15:50"
       -
         name: "Profa. Dra. Edilayne Meneses Salgueiro"
         company: "UFS"
@@ -246,17 +247,20 @@ schedule:
         presentation:
           title: "Redes Definidas por Software"
           description: ""
-          time: "16:00"
+          time: "16:30"
       -
-        name: "Prof. Dr. Henrique Nou Schneider"
+        name: "Prof. Dr. Michel dos Santos Soares"
         company: "UFS"
-        photo: "./img/speakers/henrique.jpg"
+        photo: "./img/speakers/michel.jpg"
         bio: ""
         talk: true
         presentation:
-          title: "As TDIC e a Educação: Promovendo Flexibilidade, Comunicação e Colaboração"
-          description: "A palestra tem o objetivo de contextualizar a sociedade do conhecimento e apresentar as competências requeridas por engenheiros do conhecimento, mostrando como as TIC podem ser utilizadas na Educação para forjar o modelo mental do Homem contemporâneo."
-          time: "16:40"
+          title: "Engenharia de Software na Sociedade Moderna"
+          description: "O mundo moderno está cada vez mais dependente de software. Mas o que isso significa na prática? Temos grandes desafios na sociedade atual, que envolvem o desenvolvimento, a implantação e a manutenção de grandes sistemas de software em atividades e domínios variados da economia e da sociedade, como controle de processos industriais, telecomunicações, controle de infraestrutura (aeroviária, rodoviária, ferroviária, aquaviária), distribuíção e gerenciamento de energia e água, entretenimento, sistemas de informação em setores como educação, financeiro, previdência e saúde. Esta palestra terá como foco apresentar a atuação do software no passado, no presente, e tentar vislumbrar aplicações de software no futuro próximo. Casos de falhas e de sucesso serão apresentados, incluindo seus impactos na sociedade."
+          time: "17:10"
+      -
+        name: "Intervalo"
+        time: "18:00"
       -
         name: "Prof. Dr. Tarcisio da Rocha "
         company: "UFS"
@@ -266,33 +270,7 @@ schedule:
         presentation:
           title: "Redação de Textos Técnicos"
           description: "Escrever é uma atividade crucialmente importante no mundo acadêmico — forma padrão pela qual se transmite e se registra o conhecimento gerado. A escrita pode ser determinante para que o leitor possa reconhecer o valor técnico-científico de um trabalho. Isso implica que até mesmo um excelente trabalho do ponto de vista técnico-científico pode ser rejeitado ou depreciado quando transmitido através de um texto deficiente. Diante disso, o uso de técnicas de redação de textos técnicos se torna relevante para professores e alunos nas suas necessidades de escrita: teses, dissertações, relatórios, trabalhos de conclusão de curso, artigos, dentre outras. Nesta palestra, serão apresentados os princípios fundamentais da redação de textos técnicos com relação à estrutura e ao conteúdo, destacando também os problemas comuns a serem evitados durante a escrita."
-          time: "17:20"
-      -
-        name: "Intervalo"
-        time: "18:00"
-      -
-        name: "Prof. Dr. Douglas Dyllon Jeronimo de Macedo"
-        company: "UFS"
-        photo: "./img/speakers/douglas.jpg"
-        bio: ""
-        talk: true
-        presentation:
-          title: "Armazenamento de Dados Médicos em Ambientes Distribuídos - Passado, Presente e Futuro"
-          description: "-"
           time: "19:00"
-      -
-        name: "Prof. Dr. Leonardo Nogueira Matos"
-        company: "UFS"
-        photo: "./img/speakers/leonardo.jpg"
-        bio: ""
-        talk: true
-        presentation:
-          title: "Sistemas de Informações Geográficas - laboratório para práticas de Processamento de Imagens, Computação Gráfica e Inteligência Artificial"
-          description: "Esta palestra, voltada para alunos da área de Computação, apresenta alguns assuntos abordados em cursos de Processamento de Imagens, Computação Gráfica e Inteligência Artificial e como eles são interligados em programas de Geoprocessamento. A palestra também explora um pouco as funcionalidades do software nacional Spring, desenvolvido pelo INPE (Instituto Nacional de Pesquisas Espaciais), ressaltando sempre como estas áreas disciplinares são importantes para o desenvolvimento de aplicações práticas de processamento de dados geográficos."
-          time: "19:40"
-      -
-        name: "Coffee-Break"
-        time: "20:20"
       -
         name: "Profa. Dra. Beatriz Trinchão Andrade de Carvalho"
         company: "UFS"
@@ -302,7 +280,17 @@ schedule:
         presentation:
           title: "A Representação da Aparência na Computação Gráfica"
           description: ""
-          time: "20:40"
+          time: "19:40"
+      -
+        name: "Prof. Dr. Leonardo Nogueira Matos"
+        company: "UFS"
+        photo: "./img/speakers/leonardo.jpg"
+        bio: ""
+        talk: true
+        presentation:
+          title: "Sistemas de Informações Geográficas - laboratório para práticas de Processamento de Imagens, Computação Gráfica e Inteligência Artificial"
+          description: "Esta palestra, voltada para alunos da área de Computação, apresenta alguns assuntos abordados em cursos de Processamento de Imagens, Computação Gráfica e Inteligência Artificial e como eles são interligados em programas de Geoprocessamento. A palestra também explora um pouco as funcionalidades do software nacional Spring, desenvolvido pelo INPE (Instituto Nacional de Pesquisas Espaciais), ressaltando sempre como estas áreas disciplinares são importantes para o desenvolvimento de aplicações práticas de processamento de dados geográficos."
+          time: "20:20"
   -
     day: "16/01/2015"
     slots:
