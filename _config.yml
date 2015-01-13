@@ -124,33 +124,22 @@ schedule:
         name: "Intervalo"
         time: "17:00"
       -
-        name: "Michael Oliveira da Cruz"
-        company: "PROCC/UFS"
-        photo: "./img/procc.png"
-        presentation:
-          title: "Recomendação de Caronas para Grupos: Uma Abordagem Baseada na Discretização de Rotas"
-          time: "18:00"
-      -
-        name: "Seminário"
-        company: "PROCC/UFS"
-        photo: "./img/procc.png"
-        presentation:
-          title: "Seminário Computação Inteligente"
-          time: "18:20"
-      -
         name: "Adriana Fontes"
         company: "PROCC/UFS"
         photo: "./img/procc.png"
         presentation:
           title: "ONTOPETIC: proposta de uma Ontologia para Apoiar a Metodologia PETIC (Planejamento Estratégico de Tecnologia da Informação e Comunicação)"
-          time: "18:40"
+          time: "18:00"
       -
-        name: "Seminário"
+        name: "Michael Oliveira da Cruz"
         company: "PROCC/UFS"
         photo: "./img/procc.png"
         presentation:
-          title: "Seminário Engenharia de Software e Sistemas de Informação"
-          time: "19:00"
+          title: "Recomendação de Caronas para Grupos: Uma Abordagem Baseada na Discretização de Rotas"
+          time: "18:20"
+      -
+        name: "Intervalo"
+        time: "18:40"
       -
         name: "Sávio Roberto Amorim Aragão Silva"
         company: "PROCC/UFS"
@@ -174,7 +163,7 @@ schedule:
         presentation:
           title: "As TDIC e a Educação: Promovendo Flexibilidade, Comunicação e Colaboração"
           description: "A palestra tem o objetivo de contextualizar a sociedade do conhecimento e apresentar as competências requeridas por engenheiros do conhecimento, mostrando como as TIC podem ser utilizadas na Educação para forjar o modelo mental do Homem contemporâneo."
-          time: "20:15"
+          time: "20:00"
 
   -
     day: "15/01/2015"
