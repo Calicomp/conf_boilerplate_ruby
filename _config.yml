@@ -52,6 +52,7 @@ schedule:
         photo: "./img/workshops/raphael.jpg"
         bio: ""
         workshop: true
+        location: "Laboratório Básico do DCOMP"
         presentation:
          title: "Phonegap"
          description: "O Phonegap é uma solução (framework) de código aberto para a criação de aplicativos (webapps), sendo trabalhado nas linguagens Web (HTML5 + CSS3 + JS), para os sistemas operacionais mobile. O desenvolvimento é como de qualquer site e por isso oferece uma maior facilidade de aprendizado. Dispensando, por exemplo, longas horas de dedicação a sistemas mais complicados, para alguns como o Java, além de reduzir custos do projeto."
@@ -60,6 +61,7 @@ schedule:
         photo: "./img/workshops/tassio.jpg"
         bio: ""
         workshop: true
+        location: "Laboratório Avançado do DCOMP"
         presentation:
          title: "Facilitando a integração de sistemas com o Apache Camel"
          description: "O Apache Camel é um poderoso framework Java open source que foca em tornar as integrações mais facéis e acessíveis aos desenvolvedores, baseando-se nos EIPs (Padrões de Integração de Sistemas). Ele permite que sua aplicação utilize uma mesma API para comunicação com sistemas externos, independentemente do tipo de protocolo de transporte ou modelo de mensagens (HTTP, FTP, JMS, entre outros), permitindo a comunicação e a transformação dos dados em vários formatos, como: JSON, XML, POJO(Plain Old Java Object)."
@@ -68,6 +70,7 @@ schedule:
        photo: "./img/workshops/italo.jpg"
        bio: ""
        workshop: true
+       location: "Laboratório Geral do DCOMP"
        presentation:
         title: "Vamos ao Studio? Migre sua aplicação para a nova ferramenta de desenvolvimento da Google"
         description: "Ao término deste curso você será capaz de migrar suas aplicações do Eclipse para o Android Studio além de conhecer as principais funcionalidades que esta incrível ferramenta tem a oferecer."
@@ -76,6 +79,7 @@ schedule:
        photo: "./img/workshops/adriana.jpg"
        bio: ""
        workshop: true
+       location: "Mini auditório do CCET"
        presentation:
         title: "Project Model Canvas"
         description: " O Project Model Canvas (PMC) é uma metodologia de gerenciamento de projetos, sem o embaraço de preenchimento de diversos documentos, a finalidade é descomplicar e desburocratizar. O PMC tem foco no que é indispensável, a alma do projeto, e permite que os envolvidos no projeto participem da confecção do plano."
@@ -84,6 +88,7 @@ schedule:
        photo: "./img/workshops/makson.jpg"
        bio: ""
        workshop: true
+       location: "Didática V Sala 113"
        presentation:
         title: "Pesquisa em bancos e bases de dados cientificas da computação"
         description: "O objetivo do minicurso Pesquisa Referencial em Bancos e Bases de Dados Científicos é apresentar o processo de recuperação de documentos em bancos e bases de dados científicos da computação, processo importante para a compreensão e domínio das estratégias de busca. Através da abordagem crítica, os cursistas estarão habilitados a diferenciar o rigor e a flexibilidade metodológica da pesquisa referencial eletrônica, priorizando os recursos de busca e a criatividade na recuperação de informações na internet. Desta forma, o minicurso destina-se a estudantes de graduação e pós-graduação (especialização, mestrado e doutorado) oriundos das diversas áreas do conhecimento, assim como profissionais interessados em aprender e apreender os mecanismos de buscas em bancos e bases de dados científicas."
@@ -96,6 +101,7 @@ schedule:
       -
         name: "Palestras"
         time: "14:00"
+        location: "Auditório da Didática V"
       -
         name: "Profa. Dra. Andreia Malucelli"
         company: "UTFPR"
@@ -176,6 +182,7 @@ schedule:
        photo: "./img/workshops/galileu.gif"
        bio: ""
        workshop: true
+       location: "Laboratório Básico do DCOMP"
        presentation:
         title: "Introdução a Maratona de Programação"
         description: " A Maratona de Programação é um evento da Sociedade Brasileira de Computação que existe desde o ano de 1996. Nasceu das competições regionais classificatórias para as finais mundiais do concurso de programação da ACM, o ACM International Collegiate Programming Contest, e é parte da regional sulamericana do concurso. Neste ano ocorre a 19a. edição da Maratona. Ela se destina a alunos de cursos de graduação e início de pós-graduação na área de Computação e afins (Ciência da Computação, Engenharia de Computação, Sistemas de Informação, Matemática, etc). A competição promove nos alunos a criatividade, a capacidade de trabalho em equipe, a busca de novas soluções de software e a habilidade de resolver problemas sob pressão. De ano para ano temos observado que as instituições e principalmente as grandes empresas da área têm valorizado os alunos que participam da Maratona. A exemplo grandes empresas como Facebook, Microsoft, Google e Apple, contratam muitos estudantes que já participaram, sem falar das empresas locais ou nacionais."
@@ -184,6 +191,7 @@ schedule:
        photo: "./img/team/erick.jpg"
        bio: ""
        workshop: true
+       location: "Laboratório Avançado do DCOMP"
        presentation:
         title: "Começando o Desenvolvimento de Aplicativos Android"
         description: "Aprenda como iniciar o desenvolvimento de um app mobile para a plataforma mais utilizada no Brasil: o Android! Conheça mais sobre a plataforma, suas características, como iniciar um projeto, quais padrões e frameworks devem ser utilizados e o como seguir aprendendo e desenvolvendo aplicativos após o minicurso."
@@ -192,6 +200,7 @@ schedule:
        photo: "./img/workshops/heli.jpg"
        bio: ""
        workshop: true
+       location: "Laboratório Geral do DCOMP"
        presentation:
         title: "Estudo de Protocolos de Redes com Netkit"
         description: "O Netkit é um software open source (licenciado sob GPL) baseado em UML (User Mode Linux – software de virtualização de máquinas virtuais). O ambiente do NetKit é um emulador simples que permite a realização de experimentos práticos na área de redes de computadores. Não há necessidade de aquisição e instalação de um laboratório de redes, que tem um custo muito alto. No minicurso são apresentados os requisitos, a instalação e configuração do ambiente, bem como a criação e execução de experimentos para o estudo de protocolos de rede. Utilizando o Netkit, em um único computador pessoal, pode-se implantar uma topologia de rede através da criação de dispositivos de rede virtual (computadores, roteadores e switches) e as conexões entres estes elementos. Arquivos de configuração são criados para descrever a topologia a ser estuda. Esses arquivos de configuração são utilizados pelo Netkit para iniciar automaticamente os dispositivos, as interligações e os serviços executados no ambiente proposto."
@@ -199,6 +208,7 @@ schedule:
        name: "Adriana de Melo Fontes"
        photo: "./img/workshops/adriana.jpg"
        bio: ""
+       location: "Mini auditório do CCET"
        presentation:
         title: "Project Model Canvas"
         description: "Segunda metade do minicurso. Para mais detalhes, verifique o dia anterior."
@@ -208,6 +218,7 @@ schedule:
       -
         name: "Palestras"
         time: "13:30"
+        location: "Auditório da Didátiva V"
       -
         name: "Prof. Dr. Marco Tulio Chella"
         company: "UFS"
@@ -314,6 +325,7 @@ schedule:
        name: "Galileu Santos de Jesus"
        photo: "./img/workshops/galileu.gif"
        bio: ""
+       location: "Laboratório Básico do DCOMP"
        presentation:
         title: "Introdução a Maratona de Programação"
         description: "Segunda metade do minicurso. Para mais detalhes, verifique o dia anterior."
@@ -322,6 +334,7 @@ schedule:
        photo: "./img/no-pic.png"
        bio: ""
        workshop: true
+       location: "Laboratório Avançado do DCOMP"
        presentation:
         title: "Desmistificando BPM"
         description: "-"
@@ -337,6 +350,7 @@ schedule:
        photo: "./img/workshops/jefersson.jpg"
        bio: ""
        workshop: true
+       location: "Mini auditório do CCET"
        presentation:
         title: "PHP e OO em boas mãos"
         description: "Tudo que você aprendeu sobre OO pode estar errado. Repense seus conceitos, conheça a fundo Orientação a Objetos, sua fundamentação, SOLID, Object Calisthenics e muito mais. Você irá aprender a pensar sobre Objetos."
@@ -345,6 +359,7 @@ schedule:
        photo: "./img/workshops/fernando.jpg"
        bio: ""
        workshop: true
+       location: "Laboratório de Hardware do DCOMP"
        presentation:
         title: "Introdução ao Arduino: Dissecando a Biblioteca Arduino"
         description: "Nesse minicurso de 4 horas será apresentada uma Introdução ao Arduino: sua origem, motivação, pontos positivos e negativos. Em seguida será apresentada a Biblioteca Arduino, que facilita o desenvolvimento de diversos projetos, mostrando o funcionamento de cada método fornecido pela biblioteca padrão do Arduino e como eles podem ser utilizados. Ao final do mini-curso, os participantes terão uma noção sobre o que a biblioteca Arduino fornece, suas limitações e noções de como utilizá-la."
@@ -354,6 +369,7 @@ schedule:
       -
         name: "Palestras"
         time: "13:30"
+        location: "Auditório da Didátiva V"
       -
         name: "Prof. Dr. Edward David Moreno Ordonez"
         company: "UFS"
