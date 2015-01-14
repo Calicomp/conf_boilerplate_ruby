@@ -552,6 +552,9 @@ teamSection:
          name: "Alice Rodrigues"
          photo: "./img/no-pic.png"
        -
+         name: "Daniela Santos"
+         photo: "./img/team/daniela.jpg"
+       -
          name: "Davy Sousa"
          photo: "./img/team/davy.jpg"
        -
@@ -564,9 +567,6 @@ teamSection:
          name: "Fernando Melo"
          photo: "./img/team/fernando.jpg"
        -
-         name: "Isabella Oliveira"
-         photo: "./img/team/isabela.jpg"
-       -
          name: "José Caique Oliveira"
          photo: "./img/team/caique.jpg"
        -
@@ -576,6 +576,9 @@ teamSection:
          name: "Leonardo Moraes"
          photo: "./img/team/leonardo.jpg"
        -
+         name: "Manoela Oliveira"
+         photo: "./img/team/manoela.jpg"
+       -
          name: "Nathanael Vasconcelos"
          photo: "./img/team/nathanael.jpg"
        -
@@ -584,6 +587,9 @@ teamSection:
        -
          name: "Raabe Noa"
          photo: "./img/team/raabe.jpg"
+       -
+         name: "Rodrigo Camargo"
+         photo: "./img/team/rodrigo.jpg"
        -
          name: "Thiago Arcanjo"
          photo: "./img/team/thiago.jpg"
