@@ -22,8 +22,8 @@ site:
     cover: "./img/cover-circuit.jpg"
     facebook: "./img/secomp.jpg"
 
-subscribeText: "Inscrições abertas!"
-subscribeURL: "https://www.sigaa.ufs.br/sigaa/link/public/extensao/formInscricaoOnline?id=14281419&flag=true"
+subscribeText: "Confira a programação!"
+subscribeURL: "/#schedule"
 
 # Active sections on the website
 sections:
@@ -561,7 +561,7 @@ teamSection:
          name: "Ednilson Castro"
          photo: "./img/team/ednilson.jpg"
        -
-         name: "Euder de Jesus"
+         name: "Euder Costa"
          photo: "./img/team/euder.jpg"
        -
          name: "Fernando Melo"
