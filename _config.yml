@@ -321,13 +321,13 @@ schedule:
         description: "Segunda metade do minicurso. Para mais detalhes, verifique o dia anterior."
       -
        name: "Victor Machado Pasqualino"
-       photo: "./img/no-pic.png"
+       photo: "./img/workshops/victor.jpg"
        bio: ""
        workshop: true
        location: "Laboratório Avançado do DCOMP"
        presentation:
         title: "Desmistificando BPM"
-        description: "-"
+        description: "O BPM foi definido para identificar, projetar, executar, documentar, mensurar, monitorar e controlar processos de negócios, de forma automatizada ou não, para se obter resultados consistentes e alinhados com as estratégias da organização. Neste mini-curso iremos focar em projetar fluxos e utilizá-los de forma automatizada."
       -
        name: "Heli Henriques Alcântara Nascimento"
        photo: "./img/workshops/heli.jpg"
